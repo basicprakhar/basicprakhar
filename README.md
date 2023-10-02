@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE Undergrad | 20 y/o | Native Android Dev | Open Source Contributor 
+Hi, I am Prakhar Agrawal currently I am a CSE Undergrad and a Native Android Developer.
 
 
 ## 🌐 Socials:
